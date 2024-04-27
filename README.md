@@ -1,5 +1,7 @@
 <h2 align="left">👋Hello, I'm Humble</h2>
 
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=I'm%20Humble%20🤠&text2=💖%20Code%20Editor&width=1100&height=400)](https://github.com/Akshay090/svg-banners)
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ModestPanda&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ModestPanda&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -40,3 +42,4 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
 </a>
 <img src="https://raw.githubusercontent.com/ModestPanda/ModestPanda/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
