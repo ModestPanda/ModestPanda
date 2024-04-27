@@ -1,6 +1,6 @@
 <h2 align="left">👋Hello, I'm Humble</h2>
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=I'm%20Humble%20🤠&text2=💖%20Code%20Editor&width=1100&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=I'm%20Humble%20,%20a%20humble%20man🤠&text2=💖%20Code%20Editor&width=1100&height=400)](https://github.com/Akshay090/svg-banners)
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ModestPanda&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
